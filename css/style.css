@@ -774,8 +774,8 @@ ul{
 
 
 footer{
-    margin-top: 2.2rem;
-    padding: 100px 0px;
+      margin-top: 0rem;
+    padding: 0px 0px;
     
 }
 footer .footer-social{
@@ -1107,6 +1107,7 @@ footer .footer-social a:hover{
 footer{
    
     height: 75vh;
+   
 }
    
 }
